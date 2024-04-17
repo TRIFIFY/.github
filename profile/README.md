@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# 우리는 새로운 형태의 여행 블로그를 개발합니다
+# 밴드 기록을 친구들과 남겨보세요!
 <!--
 
 **Here are some ideas to get you started:**
