@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# 밴드 기록을 친구들과 남겨보세요!
+# 친구랑 디파민을 해보세요
 <!--
 
 **Here are some ideas to get you started:**
